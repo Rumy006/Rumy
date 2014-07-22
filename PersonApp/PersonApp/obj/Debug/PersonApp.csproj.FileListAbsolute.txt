@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Tiemoon Sir\20.07.14(Day 12) OOP\HomeWork\PersonApp\PersonApp\bin\Debug\PersonApp.exe.config
+C:\Users\User\Desktop\Tiemoon Sir\20.07.14(Day 12) OOP\HomeWork\PersonApp\PersonApp\bin\Debug\PersonApp.exe
+C:\Users\User\Desktop\Tiemoon Sir\20.07.14(Day 12) OOP\HomeWork\PersonApp\PersonApp\bin\Debug\PersonApp.pdb
+C:\Users\User\Desktop\Tiemoon Sir\20.07.14(Day 12) OOP\HomeWork\PersonApp\PersonApp\obj\Debug\PersonApp.PersonNameUI.resources
+C:\Users\User\Desktop\Tiemoon Sir\20.07.14(Day 12) OOP\HomeWork\PersonApp\PersonApp\obj\Debug\PersonApp.Properties.Resources.resources
+C:\Users\User\Desktop\Tiemoon Sir\20.07.14(Day 12) OOP\HomeWork\PersonApp\PersonApp\obj\Debug\PersonApp.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Tiemoon Sir\20.07.14(Day 12) OOP\HomeWork\PersonApp\PersonApp\obj\Debug\PersonApp.exe
+C:\Users\User\Desktop\Tiemoon Sir\20.07.14(Day 12) OOP\HomeWork\PersonApp\PersonApp\obj\Debug\PersonApp.pdb
+F:\#Rumy2014000095\#New folder\21.07.12(Day 13)\HomeWork\PersonApp\PersonApp\bin\Debug\PersonApp.exe.config
+F:\#Rumy2014000095\#New folder\21.07.12(Day 13)\HomeWork\PersonApp\PersonApp\bin\Debug\PersonApp.exe
+F:\#Rumy2014000095\#New folder\21.07.12(Day 13)\HomeWork\PersonApp\PersonApp\bin\Debug\PersonApp.pdb
+F:\#Rumy2014000095\#New folder\21.07.12(Day 13)\HomeWork\PersonApp\PersonApp\obj\Debug\PersonApp.csprojResolveAssemblyReference.cache
+F:\#Rumy2014000095\#New folder\21.07.12(Day 13)\HomeWork\PersonApp\PersonApp\obj\Debug\PersonApp.PersonNameUI.resources
+F:\#Rumy2014000095\#New folder\21.07.12(Day 13)\HomeWork\PersonApp\PersonApp\obj\Debug\PersonApp.Properties.Resources.resources
+F:\#Rumy2014000095\#New folder\21.07.12(Day 13)\HomeWork\PersonApp\PersonApp\obj\Debug\PersonApp.csproj.GenerateResource.Cache
+F:\#Rumy2014000095\#New folder\21.07.12(Day 13)\HomeWork\PersonApp\PersonApp\obj\Debug\PersonApp.exe
+F:\#Rumy2014000095\#New folder\21.07.12(Day 13)\HomeWork\PersonApp\PersonApp\obj\Debug\PersonApp.pdb
